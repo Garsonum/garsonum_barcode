@@ -1,0 +1,12 @@
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\bin\Debug\netstandard2.0\Garsonum_Barcode.deps.json
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\bin\Debug\netstandard2.0\Garsonum_Barcode.dll
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\obj\Debug\netstandard2.0\Garsonum_Barcode.csprojAssemblyReference.cache
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\obj\Debug\netstandard2.0\Garsonum_Barcode.csproj.CoreCompileInputs.cache
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\obj\Debug\netstandard2.0\Garsonum_Barcode.AssemblyInfoInputs.cache
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\obj\Debug\netstandard2.0\Garsonum_Barcode.AssemblyInfo.cs
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\bin\Debug\netstandard2.0\Garsonum_Barcode.pdb
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\obj\Debug\netstandard2.0\Garsonum_Barcode.dll
+C:\Users\Stelvip\source\repos\Garsonum_Barcode\Garsonum_Barcode\Garsonum_Barcode\obj\Debug\netstandard2.0\Garsonum_Barcode.pdb
